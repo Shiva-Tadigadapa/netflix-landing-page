@@ -1,0 +1,287 @@
+
+body{
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+    /* overflow-y: hidden; */
+}
+/* #first{
+  height: 704.984px;
+  width: 1349px;
+} */
+
+.bg-root{
+    background-image: radial-gradient(rgba(0, 0, 0, 0.4),rgba(0,0,0,1)), url(./home/land-page-bg.jpg);
+    /* object-fit: cover; */
+    background-size: cover;
+    background-position: center;
+    /* height: 1850px; */
+    width: 100%;
+  height: 704.984px;
+
+}
+
+.logo-png{
+    height: 7.346326836581709vh;
+    /* width: 9.809663250366032vw; */
+    margin-right: auto;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.logo-span{
+    margin-right: auto;
+    display:flex;
+}
+.top-coi{
+    /* margin-top: 20px; */
+}
+.sign-in{
+    margin-right: 30px;
+    margin-top: 20px;
+}
+.lang{
+    margin: 10px 14px;
+}
+#l{
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 8px 22px;
+    font-family:  Helvetica, sans-serif;
+    font-weight:400;
+    font-size: 14px;
+    margin-top: 7px;
+    border-radius: 2px;
+    color: #fff;
+
+}
+#l2{
+    background-color: rgba(255, 255, 255, 0.199);
+    background-color: #e50914;
+    /* border: 1px solid white; */
+    border: none;
+    color: white;
+    padding: 8px 22px;
+    font-family:  Helvetica, sans-serif;
+    font-weight:400;
+    font-size: 16px;
+    font-stretch: 100%;
+    border-radius: 3px;
+    text-decoration: none;
+    
+}
+
+/* @media only screen and (min-width: 550px) and (max-width: 949px) and (orientation: portrait), only screen and (min-width: 400px) and (max-width: 549px), only screen and (min-width: 350px) and (max-width: 399px), only screen and (max-width: 349px){
+ .bg-root .first {
+    height: 100%;
+    width: auto;
+    /* object-fit: cover; 
+}
+} */
+.head{
+    text-align: center;
+    color: #fff;
+    font-size: 3.125rem;
+    padding-top: 10rem;
+    max-width: 640px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+.head2{
+    text-align: center;
+    color: #fff;
+    margin: 16px auto;
+    font-family: sans-serif;
+    font-size: 1.625rem;
+    font-weight: 400;
+
+}
+.head3{
+    text-align: center;
+    color: #fff;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-size: 1.188rem;
+    font-weight: 400;
+
+}
+.search-bar{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ser{
+    padding: 10px 10px 10px 10px;
+    height: 36px;
+    width: 478px;
+    border: 1px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    
+}
+.red-btn{
+    /* padding: 10px 10px 10px 10px; */
+    height: 56.5px;
+    padding: 0px 20px;
+    background-color: #e60914;
+    color: #fff;
+    /* width: 80px; */
+    /* border: 1px; */
+    font-size: 26px;
+    font-family: sans-serif;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.red-btn:hover{
+    background-color: #ff0511fd;
+
+}
+.ffn{
+    margin-left: 21.5rem;
+    margin-top: 5px;
+}#ffn2{
+ color: rgb(255, 187, 0);
+ font-family: sans-serif;
+ /* transition: 1.7ms; */
+}
+.emp-bor{
+    border: 4px solid #ffffff1e;
+}
+.mid-coi{
+    display: flex;
+    color: #fff;
+    /* flex-direction: column; use this when making it reposive for mobile */
+}
+.both-head{
+    font-family: sans-serif;
+    
+    /* font-size: 1.625rem;
+    font-weight: 400; */
+    padding: 10rem 4.5rem 0rem 8.5rem
+}
+.mid-head{
+    margin: 0px;
+    font-size: 3rem;
+    font-weight: 600;
+    
+}
+.mid-head2{
+    margin-top: 20px;
+    font-weight: 400;
+}
+.animation-mid1-container{
+    /* height: 30%; */
+    margin-right: 7%;
+    
+}
+.animation-mid1-container .video-anime{
+    height: 34%;
+    margin-top: 5rem;
+    margin-left: 4.3rem;
+    z-index: -1;
+   position: absolute;
+}
+.animation-video-container img{
+   height: 25rem;
+   /* margin-top: -10rem; */
+}
+#emp-bor2{
+    margin-top: 50px;
+}
+.animation-mid1-container{
+    /* height: 30%; */
+    margin-right: 7%;
+    
+}
+.str-download-container{
+    display: flex;
+    border: 2px solid rgba(255, 255, 255, 0.281);
+    font-family: sans-serif;
+    width: 20rem;
+    height: 90px;
+    justify-content: space-between;
+    border-radius: 12px;
+    margin-top: -7.5rem;
+    margin-left: 5.6rem;
+    position: absolute;
+    background-color: #000;
+    align-items: center;
+}
+.animation-image-container{
+    margin-top: 27px;
+    margin-left: 48px;
+}
+.animation-image-container img{
+    height: 24rem;
+    /* margin-top: -10rem; */
+}
+.animation-image-container .str-logo-img img {
+    height: 4.5rem;
+    /* margin-top: -10rem; */
+ }
+.download-icon img{
+     height: 3rem;
+     margin-right: .5em;
+ }
+ .str-both-head{
+     margin-top: 5px;
+     margin-left: -60px;
+
+ }
+ .str-both-head .str-head{
+     font-weight: 600;
+ }
+.str-both-head .str-head-download{
+    color: #0071eb;
+    font-size: .9rem;
+}
+.str-logo-img img{
+    margin-left: 10px;
+    margin-top: 5px;
+    /* height: 72px; */
+    width: 51.42px;
+}
+
+.both-head2{
+    font-family: sans-serif;
+    padding: 9rem 4.5rem 0rem 4rem;
+}
+
+.both-head-diwali{
+    padding: 9rem 2.5rem 0rem 8rem;
+    margin-top: 50px;
+    
+}
+.animation-image-container-diwali img{
+    margin-top: 25px;
+}
+.animation-mid1-container .video-anime-diwali{
+    height: 200px;
+    width: 336px;
+    margin-left: 132px;
+}
+.animation-mid1-container-diwali img{
+    height: 24rem;
+}
+.mid-head2{
+    line-height: 1.2;
+}
+#emp-bor3{
+    margin-top: 55px;
+}
+.animation-image-container-profiles img{
+    margin-left: 65px;
+    /* padding-left: 10px; */
+}
+.both-head2-profiles{
+    padding: 8rem 6.5rem 0rem 3rem;;
+}
+.animation-mid1-container-profiles{
+    margin-right: 1%;
+}

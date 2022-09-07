@@ -1,0 +1,179 @@
+body{
+
+}
+.logo-png{
+    width: 20rem;
+    height: 8rem;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+#l{
+    padding:27px 64px;
+    font-size: 60px;
+    margin-top: 20px;
+    margin-right: 40px;
+
+    border: 2px solid white;
+}
+#l2{
+    padding: 29px 35px;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+.head{
+    margin-top: 30px;
+    font-size: 5.5rem;
+    max-width: 1180px;
+}
+.head2{
+    font-weight: 500;
+    font-size: 4.5rem;
+    margin-top: 45px;
+    font-style: bold;
+}
+.head3{
+    font-weight: 400;
+    font-size: 4rem;
+    padding: 0px 163px;
+    margin-top: 55px;    
+}
+.bg-root{
+    background-image: radial-gradient(rgba(0, 0, 0, 0.4),rgba(0,0,0,1)), url(./home/land-page-bg.jpg);
+    /* object-fit: cover; */
+    /* background-size: cover;
+    background-position: center; */
+    height: 1700px;
+    width: 100%;
+  /* height: 704.984px; */
+}
+.search-bar{
+    flex-direction: column;
+    
+}
+#ser{
+    margin-top: 2rem;
+        width: 857px;
+    padding: 80px;
+    font-size: 3rem;
+}
+.red-btn{
+    margin-top: 4.5rem;
+    /* padding: 30px 30px; */
+    font-size: 4rem;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 6.5rem;
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    border-radius: 9px;
+}
+#emp-bor1{
+    border: 13px solid rgba(255, 255, 255, 0.158);
+}
+.ffn{
+    margin-top: -13rem;
+    margin-left: 70px;
+    font-size: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main-cont{
+    /* max-width: fit-content; */
+    /* max-height: 1000px; */
+    /* background-color: hwb(180 0% 0%); */
+    /* position:absolute; */
+
+}
+.mid-coi{
+
+    display: flex;
+    flex-direction: column;
+}
+.mid-coi-mobile1{
+    /* margin-top: 600px; */
+    /* margin-top: 627px; */
+    margin-left: 0px;
+    align-items: center;
+    /* width: 154%; */
+    /* justify-content: center; */
+    text-align: center;
+}
+.animation-mid1-container .video-anime-mobile1{
+    height: 41%;
+    margin-top: 4.5rem;
+    margin-left: -22.9rem;
+    height: 41rem;
+    width: 52rem;
+    /* widht: -6rem; */
+    z-index: -1;
+    position: absolute;
+    /* width: 138%; */
+}
+.animation-mid1-container-mobile1{
+    /* margin-top: -40px; */
+    height: 63rem;
+    width: 65rem;
+
+}
+
+.animation-video-container img{
+    height: 53rem;
+}
+.both-head-mobile1{
+    padding:10rem 4.5rem 0rem 0.5rem;
+    margin-left: 35px;
+}
+.mid-head{
+    font-size: 5rem;
+}
+.mid-head2{
+    font-weight: 400;
+    font-style: normal;
+    /* font-style: inherit; */
+    /* font-size: 34.2px; */
+    font-size: 4rem;
+    width: 64rem;
+}
+
+body{
+    width: 364%;
+}
+#emp-bor2{
+    border: 13px solid rgba(255, 255, 255, 0.192);
+}
+.mid-coi-mobile2{
+  display: flex;  
+  flex-direction: column-reverse;
+
+}
+.both-head-mobile2{
+    text-align: center;
+}
+.mid-head-str{
+    /* font-weight: 700; */
+    font-size: 6rem;
+}
+.animation-mid1-container-mobile2{
+    height: 50rem;
+}
+.animation-image-container{
+    height: 50rem;
+}
